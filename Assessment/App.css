@@ -1,0 +1,15 @@
+
+.part{
+    width:50vw; 
+    height:100vh; 
+    background-color: #230756;
+    text-decoration-color:white;
+    margin:auto;
+}
+*{
+    text-decoration-color:white;
+}
+
+.clr{
+    background-color:#230c4b;
+}
